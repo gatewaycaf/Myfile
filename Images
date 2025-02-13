@@ -1,1 +1,8 @@
-https://gatewaycaf.github.io/Myfile/images/cake%20c.png
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cake Image</title>
+</head>
+<body>
+  <img src="images/cake c.png" alt="Cake"> </body>
+</html>
